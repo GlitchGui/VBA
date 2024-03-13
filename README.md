@@ -4,7 +4,7 @@ Custom VBA Scripts for company excel automation.
 # How To Use VBA in Excel
 - Open an Excel file
 - Save as .XLSM
-- Enable Developer tab
+- Enable Developer tab in settings
 - Select Developer tab
 - Open Visual Basic
 - Insert -> Module
